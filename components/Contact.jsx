@@ -12,7 +12,7 @@ export default function Contact() {
           <div className="">your financial growth and prosperity</div>
         </div>
         <div className="abt-desc  text-justify text-xl font-medium">
-          <a href="#" className="">
+          <a>
             <button
               type="submit"
               className="underline bg-white commit-btn  px-8 py-2"
