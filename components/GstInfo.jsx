@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import "../css/GstInfo.css";
+import "../css/GSTInfo.css";
 
 const GstInfo = ({ className = "" }) => {
   return (
