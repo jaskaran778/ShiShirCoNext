@@ -1,0 +1,17 @@
+import "../css/Team.css";
+import CardHoverEffect from "./Effects/CardHoverEffect";
+
+export default function Services() {
+  return (
+    <div className="Services-cont Team-cont flex flex-col flex-wrap justify-center items-center">
+      <div
+        className="head text-5xl font-bold flex font1 flex-wrap items-center justify-center px-8"
+        id="services"
+      >
+        <div className="mr-4">Our</div>
+        <div className="">Services</div>
+      </div>
+      <CardHoverEffect />
+    </div>
+  );
+}
