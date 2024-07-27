@@ -2,7 +2,7 @@ import "../css/About.css";
 
 export default function About() {
   return (
-    <div className="abt-cont text-white w-full mb-20">
+    <div className="abt-cont text-white w-full mb-20 about_final">
       <div className="about flex flex-wrap justify-center items-center flex-col pt-12 pb-12 pl-8 pr-8">
         <div
           className="abt-head mb-8 text-4xl font-bold flex flex-wrap items-center justify-center font1"
@@ -12,7 +12,7 @@ export default function About() {
           <div className="">Shishir & Co</div>
         </div>
         <div className="abt-desc pl-16 pr-16 text-left text-2xl font-medium">
-          <p className="p1 font5">
+          <p className="p1 font5 a_p">
             Shishir & Co. is a leading Chartered Accountancy firm established in
             2012. The company provides a wide range of professional services to
             clients across various industries, including GST filing, business
